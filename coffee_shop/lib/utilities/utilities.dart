@@ -1,1 +1,1 @@
-export './app_size.dart';
+export 'app_localizations.dart';
